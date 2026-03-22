@@ -1,6 +1,6 @@
 ---
 title: "Graphical Models"
-date: 2025-01-10
+date: 2026-01-10
 category: "introduction"
 speaker: "Xuzhe Xia"
 ---
