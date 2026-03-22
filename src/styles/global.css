@@ -181,19 +181,11 @@ a:hover {
   text-transform: capitalize;
 }
 
-.talk-type-tag.talk {
+.talk-type-tag.talk,
+.talk-type-tag.introduction,
+.talk-type-tag.discussion {
   background: #f3f4f6;
   color: #6b7280;
-}
-
-.talk-type-tag.introduction {
-  background: #f0fdf4;
-  color: #4b5563;
-}
-
-.talk-type-tag.discussion {
-  background: #fefce8;
-  color: #4b5563;
 }
 
 .talk-card-detail {
