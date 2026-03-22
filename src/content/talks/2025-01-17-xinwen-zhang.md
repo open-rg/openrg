@@ -3,4 +3,5 @@ title: "Quantitative Characterization of Biomolecular Condensates Using Off-Axis
 date: 2025-01-17
 category: "talk"
 speaker: "Xinwen Zhang"
+affiliation: "University of Gothenburg"
 ---
