@@ -158,7 +158,8 @@ a:hover {
   gap: 10px;
 }
 
-.talk-card-header .talk-card-links {
+.talk-card-detail .talk-card-links {
+  display: inline-flex;
   margin-top: 0;
   padding-left: 0;
 }
