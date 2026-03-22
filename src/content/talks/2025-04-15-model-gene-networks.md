@@ -1,5 +1,5 @@
 ---
-title: "Model Gene Networks"
+title: "Modeling Gene Regulatory Networks with Probabilistic Graphical Models and GFlowNets"
 date: 2025-04-15
 speaker: "Qichen Huang"
 affiliation: "Mila - Quebec AI Institute, Université de Montréal"
