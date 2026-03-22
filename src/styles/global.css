@@ -327,6 +327,25 @@ a:hover {
   text-align: center;
 }
 
+/* Quote */
+.quote {
+  border-left: 3px solid var(--color-primary);
+  padding: 12px 20px;
+  margin: 0 0 20px 0;
+  font-size: 15px;
+  font-style: italic;
+  color: #444;
+  line-height: 1.7;
+}
+
+.quote cite {
+  display: block;
+  margin-top: 8px;
+  font-size: 13px;
+  font-style: normal;
+  color: var(--color-text-secondary);
+}
+
 /* Talk detail page */
 .back-link {
   display: inline-block;
