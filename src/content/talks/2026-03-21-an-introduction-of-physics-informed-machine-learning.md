@@ -1,5 +1,5 @@
 ---
-title: "An Introduction of Physics-informed Machine Learning"
+title: "An Introduction of Physics-informed Machine Learning (PINN)"
 date: 2026-03-21
 speaker: "Xinwen Zhang"
 category: "introduction"
