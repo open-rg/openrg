@@ -163,6 +163,10 @@ a:hover {
   padding-left: 0;
 }
 
+.talk-card-links a {
+  white-space: nowrap;
+}
+
 .talk-card-links a::after {
   content: " \2197";
 }
